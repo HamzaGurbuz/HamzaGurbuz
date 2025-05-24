@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hamza!
 
-<!--
-**HamzaGurbuz/HamzaGurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **FRC student** and a **mentor for FTC Team #25186, Pars Junior**, based in Istanbul, Türkiye.  
+I love building robots, writing code, and sharing knowledge with the FIRST community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 About Me
+
+- 💡 Currently learning and exploring advanced robotics and software engineering
+- 🧠 Mentor at **Pars Junior**, guiding students in Java, hardware integration, and autonomous systems
+- 🏆 Achievements with Pars Junior:
+  - Champion – FTC 2023-2024 2nd Off-Season  
+  - 3rd Place – FTC 2023-2024 1st Off-Season  
+  - Finalist – Control Award
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** Java, Python, C#, Kotlin
+- **Robotics:** FTC SDK, FRC WPILib, Road Runner, OpenCV, AprilTag
+- **Tools:** Android Studio, VS Code, Git, GitHub, REV Hardware Client
+
+---
+
+## 📌 Current Goals
+
+- Sharpen my command-based programming skills for FRC  
+- Contribute more open-source robotics code  
+- Support younger students in getting started with programming and robotics
+
+---
+
+## 📬 Get in Touch
+
+- 💬 [GitHub Discussions](https://github.com/HamzaGurbuz)
+- 📷 Follow our journey: [Pars Robotics on Instagram](https://instagram.com/parsrobotics436) 
+
+---
+
+> “Build to learn, learn to inspire.” 🔧💡
