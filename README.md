@@ -35,7 +35,7 @@ I love building robots, writing code, and sharing knowledge with the FIRST commu
 ## 📬 Get in Touch
 
 - 💬 (https://github.com/HamzaGurbuz)
-- 📷 [Pars Robotics](https://instagram.com/parsrobotics436)
+- 📷 [Pars Robotics](https://instagram.com/parsrobotics6436)
 - 📷 [My Instagram](https://instagram.com/hamza_grbz36) 
 
 ---
