@@ -18,7 +18,7 @@ I love building robots, writing code, and sharing knowledge with the FIRST commu
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, Python, C#, Kotlin
+- **Languages:** Java, C#, WPILib, FTC SDK
 - **Robotics:** FTC SDK, FRC WPILib, Road Runner, OpenCV, AprilTag
 - **Tools:** Android Studio, VS Code, Git, GitHub, REV Hardware Client
 
